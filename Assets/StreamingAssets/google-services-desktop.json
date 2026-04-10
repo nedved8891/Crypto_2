@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952929684121",
+    "project_id": "gpassistantpro",
+    "storage_bucket": "gpassistantpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952929684121:android:cbc0217f29dda8ae7d4608",
+        "android_client_info": {
+          "package_name": "com.gpassistantpro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAluAAzaGWK_Fm5SvleDExUegy_0xhIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
